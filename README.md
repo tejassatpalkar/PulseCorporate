@@ -1,9 +1,9 @@
 # PulseCorporate
 
 ## ToDo List
--[] Make Models for Api
--[] Finish Api
--[] Setup frontend Django app
+* Make Models for Api
+* Finish Api
+* Setup frontend Django app
 
 
 
