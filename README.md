@@ -7,7 +7,7 @@
 
 
 
-Django App Functionality
+## Django App Functionality
 * UIUC students only can Login 
   *  Shibboleth
       *   https://github.com/sigpwny/sigpwny-shibboleth-auth/tree/master/shibboleth
