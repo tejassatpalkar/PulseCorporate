@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T21:48:42.524Z" agent="5.0 (Windows)" etag="Tjp37AqXtYGpO40v9M6C" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T22:03:48.403Z" agent="5.0 (Windows)" etag="_hX86Ot-tsypCHJOquej" version="20.3.6" type="github">
   <diagram id="Tv00bOvf_KqW47BSWtnD" name="Page-1">
     <mxGraphModel dx="1038" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,6 +31,11 @@
             <mxPoint x="450" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-32" value="dirty[index]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTMuSjd8Qrg-Vh-RTC_D-7">
+          <mxGeometry x="-0.2145" y="-7" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTMuSjd8Qrg-Vh-RTC_D-3" target="eTMuSjd8Qrg-Vh-RTC_D-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387.57359312880726" y="278.2842712474619" as="sourcePoint" />
@@ -38,12 +43,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTMuSjd8Qrg-Vh-RTC_D-4" target="eTMuSjd8Qrg-Vh-RTC_D-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="310" as="sourcePoint" />
-            <mxPoint x="450" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTMuSjd8Qrg-Vh-RTC_D-4" target="eTMuSjd8Qrg-Vh-RTC_D-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="310" as="sourcePoint" />
             <mxPoint x="450" y="260" as="targetPoint" />
@@ -75,8 +74,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-16" value="&lt;div&gt;Srijan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="130" width="30" height="60" as="geometry" />
+        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-16" value="Siddharth " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="150" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTMuSjd8Qrg-Vh-RTC_D-4" target="eTMuSjd8Qrg-Vh-RTC_D-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -96,25 +95,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-20" value="Prof. Kumar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="30" height="60" as="geometry" />
+          <mxGeometry x="770" y="70" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-21" value="&lt;div&gt;Srijan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="770" y="420" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-22" value="&lt;div&gt;Srijan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="150" width="30" height="60" as="geometry" />
+        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-24" value="Yian " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-23" value="&lt;div&gt;Srijan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="160" width="30" height="60" as="geometry" />
+        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-25" value="Stanley " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="510" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-24" value="&lt;div&gt;Srijan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="170" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-25" value="&lt;div&gt;Srijan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="180" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-26" value="&lt;div&gt;Srijan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-26" value="Zhuxuan " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-29" value="~pmem_resp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="275" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-30" value="~pmem_resp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTMuSjd8Qrg-Vh-RTC_D-31" value="mem_read &lt;span class=&quot;ILfuVd&quot; lang=&quot;en&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;b&gt;⊕&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; mem_write" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="165" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
